@@ -1,0 +1,1 @@
+Clean static image gallery website using HTML & CSS
